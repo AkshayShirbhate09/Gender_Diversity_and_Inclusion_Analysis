@@ -53,6 +53,7 @@ This project aims to provide insights into gender diversity and inclusion within
   📊 Bar Chart
   🔍 Quick Insight
   🃏 Cards
+  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 💡 **Why It Matters:**
 
