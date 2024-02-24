@@ -41,7 +41,7 @@ This project aims to provide insights into gender diversity and inclusion within
   16. Has there been any change in the gender composition of new hires over time?
       
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📊 Visuals Used in Power BI Report:
+📊 **Visuals Used in Power BI Report:**
 
   🍩 Donut Chart
   🥧 Pie Chart
