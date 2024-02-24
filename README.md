@@ -7,7 +7,7 @@
 Welcome to the Gender Diversity and Inclusion Analysis project developed as part of the Virtual Internship Program Challenge for PwC's Forage Program. This project focuses on analyzing gender diversity and inclusion within an organization using sample data provided by PwC. By leveraging data analytics techniques, we aim to delve into key metrics and insights to assess the organization's gender diversity initiatives and identify areas for improvement.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📊 **Project Overview:**
+🎯 **Project Overview:**
 
 This project aims to provide insights into gender diversity and inclusion within a specific organization. By examining various aspects such as workforce demographics, hiring practices, promotion rates, and employee engagement, we seek to gain a comprehensive understanding of the organization's gender diversity landscape.
 
